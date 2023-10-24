@@ -2,7 +2,7 @@
 - 🤔 I am a graduate of commerce college and I am currently learning React.js to work as a front-end developer. I am passionate about building functional and good-looking sites, and I am a quick learner and a team player. I am always learning and growing, and I am excited to become a next big thing in the web development industry.  
 - 🌱 I’m currently learning react.js to work as a frontend react.js developer
 - 🔭 I’m currently looking for a junior position as a react.js developer
-- 😎 [My Website](https://precious-stardust-520c3c.netlify.app/)
+- 😎 [My Website](https://gergesnashaat.netlify.app/)
  ### 💪 Skills
 - React.js
 - HTML
