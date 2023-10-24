@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🤔 I am a graduate from Commerce College with a passion for building functioning and good-looking websites. I am currently learning React.js to pursue a career as a front-end React developer. I am a quick learner, a good team player, and I am always eager to learn and grow. I am excited to use my skills and knowledge to contribute to the success of a team and build innovative and user-friendly websites.   
 - 🌱 I’m currently learning react.js to work as a frontend react.js developer
 - 🔭 I’m currently looking for a junior position as a react.js developer
 - 😄 [My Website](https://precious-stardust-520c3c.netlify.app/)
