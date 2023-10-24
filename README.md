@@ -9,8 +9,7 @@
 - CSS
 - JavaScript
 - Bootstrap
-### 😎 also proficient in the following:
--Git
+- Git
 <!--
 **G3RGES/G3RGES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
