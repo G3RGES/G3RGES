@@ -7,6 +7,7 @@
 - React.js
 - HTML
 - CSS
+- Redux
 - JavaScript
 - Bootstrap
 - Git
