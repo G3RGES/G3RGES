@@ -9,7 +9,9 @@
 - CSS
 - Redux
 - JavaScript
+- React.js 
 - Bootstrap
+- Tailwind
 - Git
 <!--
 **G3RGES/G3RGES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
