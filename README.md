@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🤔 I am a graduate of commerce college . I am passionate about building functional and good-looking sites, and I am a quick learner and a team player. I'm always learning and growing, and I am excited to become a next big thing in the web development industry.  
-- 🔭 I’m currently looking for a junior position as a react.js developer
-- 😎 Visit my personal Website: [My Website](https://gergesnashaat.vercel.app/)
-- 📫 How to reach me: [My Email](georgios.nashaat@gmail.com)
+-#### 🔭 I’m currently looking for a junior position as a react.js developer
+- 😎 Visit my personal Website: [Website](https://gergesnashaat.vercel.app/)
+- 📫 How to reach me: [Email](georgios.nashaat@gmail.com)
 _______
  ### 💪 Skills
 - HTML
