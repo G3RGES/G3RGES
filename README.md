@@ -3,7 +3,7 @@
 - 🔭 I’m currently looking for a junior position as a react.js developer
 - 😎 [My Website](https://gergesnashaat.vercel.app/)
 - 📫 How to reach me: [My Email](georgios.nashaat@gmail.com)
-- _______
+_______
  ### 💪 Skills
 - HTML
 - CSS
