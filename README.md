@@ -7,8 +7,8 @@ _______
  ### 💪 Skills
 - HTML
 - CSS
-- Redux
 - JavaScript
+- Redux
 - React.js 
 - Bootstrap
 - Tailwind
