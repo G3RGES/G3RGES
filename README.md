@@ -8,8 +8,8 @@ _______
 - HTML
 - CSS
 - JavaScript
-- Redux
-- React.js 
+- React.js
+- Redux 
 - Bootstrap
 - Tailwind
 - Git
