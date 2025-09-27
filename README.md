@@ -1,31 +1,29 @@
-### Hi there 👋
-- 🤔 I am passionate about building functional and good-looking sites, and I am a quick learner and a team player. I'm always learning and growing, and I am excited to become a next big thing in the web development industry.  
-- 🔭 I’m currently looking for a position as a react.js developer
-- 😎 Visit my personal Website: [Website](https://gergesnashaat.vercel.app/)
-- 📫 How to reach me: [Email](georgios.nashaat@gmail.com)
-_______
- ### 💪 Skills
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Redux 
-- Bootstrap
-- Tailwind
-- Git
-- Figma
+# Hi, I'm G3RGES 👋
 
-<!--
-**G3RGES/G3RGES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Frontend Developer | React.js Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **About Me**
+
+I'm driven by a passion for creating **functional and good-looking sites**. I'm a naturally quick learner and thrive as a team player, constantly seeking opportunities for growth and knowledge. I'm excited to become a significant contributor in the web development industry!
+
+I'm currently looking for a position as a **React.js Developer**.
+
+---
+
+### **Skills & Technologies**
+
+| Category | Tools & Libraries |
+| :--- | :--- |
+| **Core Web** | HTML, CSS, JavaScript |
+| **Frameworks/Libraries** | **React.js**, Redux |
+| **Styling** | Bootstrap, Tailwind |
+| **Design/Tools** | Git, Figma |
+
+---
+
+### **Connect with Me**
+
+* 🌐 **[Visit my Website](https://gergesnashaat.vercel.app/)**
+* 📧 **[Send me an Email](mailto:georgios.nashaat@gmail.com)**
