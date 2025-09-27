@@ -1,29 +1,29 @@
-# Hi, I'm G3RGES 👋
+# G3RGES
 
-### **Frontend Developer | React.js Enthusiast**
-
----
-
-### **About Me**
-
-I'm driven by a passion for creating **functional and good-looking sites**. I'm a naturally quick learner and thrive as a team player, constantly seeking opportunities for growth and knowledge. I'm excited to become a significant contributor in the web development industry!
-
-I'm currently looking for a position as a **React.js Developer**.
+## Aspiring React.js Developer & Design-Focused Builder
 
 ---
 
-### **Skills & Technologies**
+### **🚀 What I Do**
 
-| Category | Tools & Libraries |
-| :--- | :--- |
-| **Core Web** | HTML, CSS, JavaScript |
-| **Frameworks/Libraries** | **React.js**, Redux |
-| **Styling** | Bootstrap, Tailwind |
-| **Design/Tools** | Git, Figma |
+I love building web experiences that are both **functional** and **visually appealing**. I'm a dedicated **team player** and a **quick learner**, always looking to expand my skill set and make a big impact in the web development world.
+
+* **Current Goal:** Seeking a role as a **React.js Developer**.
 
 ---
 
-### **Connect with Me**
+### **🛠️ Technical Toolkit**
 
-* 🌐 **[Visit my Website](https://gergesnashaat.vercel.app/)**
-* 📧 **[Send me an Email](mailto:georgios.nashaat@gmail.com)**
+| Front-End | Styling & UI | Tools & Version Control |
+| :--- | :--- | :--- |
+| **React.js** | Bootstrap | **Git** |
+| Redux | **Tailwind** | Figma |
+| HTML | CSS | |
+| JavaScript | | |
+
+---
+
+### **🔗 Let's Connect**
+
+* **Portfolio:** [Website](https://gergesnashaat.vercel.app/)
+* **Contact:** [Email](mailto:georgios.nashaat@gmail.com)
