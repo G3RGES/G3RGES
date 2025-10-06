@@ -1,4 +1,4 @@
-# G3RGES
+# Gerges Nashaat Hosny
 
 ## Aspiring React.js Developer & Design-Focused Builder
 
